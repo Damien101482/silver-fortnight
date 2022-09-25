@@ -58,7 +58,7 @@ SpellsList["bond of the dragonlords"] = {
 };
 SpellsList["Dirge of the dragonlords"] = {
     name : "Dirge of the Dragonlords",
-    classes : ["Paladin", "Cleric", "Bard"],
+    classes : ["Bard", "Cleric", "Paladin"],
     source : ["OotD", 54],
     level : 3,
     school : "Necro",
@@ -73,7 +73,7 @@ SpellsList["Dirge of the dragonlords"] = {
 };
 SpellsList["Fatebinding"] = {
     name : "Fatebinding",
-    classes : ["Warlock", "Cleric", "Bard", "Wizard"],
+    classes : ["Bard", "Cleric", "Warlock", "Wizard"],
     source : ["OotD", 54],
     level : 3,
     school : "Necro",
@@ -87,7 +87,7 @@ SpellsList["Fatebinding"] = {
 };
 SpellsList["Seeds of Death"] = {
     name : "Seed of Death",
-    classes : ["Paladin", "Cleric", "Bard"],
+    classes : ["Bard", "Cleric", "Paladin"],
     source : ["OotD", 55],
     level : 6,
     school : "Necro",
