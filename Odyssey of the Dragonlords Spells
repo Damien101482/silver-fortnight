@@ -13,7 +13,7 @@
 	Date:		2020-04-27 (sheet v13)
 */
 
-var iFileName = "OdysseyOfTheDragonlords_v13.js";
+var iFileName = "OdysseyOfTheDragonlordsSpells_v13.js";
 
 RequiredSheetVersion(13);
 
